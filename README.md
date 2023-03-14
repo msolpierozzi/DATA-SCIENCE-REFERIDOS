@@ -32,7 +32,6 @@
             Comparando los referidos entre hombres y mujeres,
             ¿Existe una diferencia notable entre esta cantidad?
             ¿A quiénes se le otorgan mayores montos?
-            ¿Qué cantidad de ellos son aprobados?
         </li>
         <li>
             En relación a la cantidad de referidos, ¿Qué porcentaje de ellos finalmente es aprobado?
