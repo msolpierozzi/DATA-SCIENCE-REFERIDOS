@@ -34,9 +34,6 @@
             ¿A quiénes se le otorgan mayores montos?
         </li>
         <li>
-            En relación a la cantidad de referidos, ¿Qué porcentaje de ellos finalmente es aprobado?
-        </li>
-        <li>
             ¿Cuál es el grupo de Nivel Socioeconómico que posee mayor puntaje de Riesgo?
             ¿Existe una diferencia significativa entre los puntajes?
         </li>
